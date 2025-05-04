@@ -4,7 +4,7 @@ This is an AI-powered web application that enables recruiters and educational in
 
 ## 🚀 Demo
 
-🔗 [Live Demo Link]([(https://qifeyp4vtq7.streamlit.app/)](https://qifeyp4vtq7.streamlit.app/))  
+🔗 [Live Demo Link](https://your-demo-link.streamlit.app)  
 📝 **NOTE**: You can explore the demo, but API usage is limited due to restricted token access.
 
 ---
@@ -32,7 +32,11 @@ This is an AI-powered web application that enables recruiters and educational in
 
 ---
 
+## 📸 Screenshots
 
+> Add some screenshots of the dashboard, test view, and evaluation results here (recommended for GitHub viewers).
+
+---
 
 ## ⚙️ Installation
 
