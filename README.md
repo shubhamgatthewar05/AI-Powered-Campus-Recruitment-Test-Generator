@@ -4,7 +4,7 @@ This is an AI-powered web application that enables recruiters and educational in
 
 ## 🚀 Demo
 
-🔗 [Live Demo Link](https://your-demo-link.streamlit.app)  
+🔗 [Live Demo Link](https://qifeyp4vtq7.streamlit.app/)  
 📝 **NOTE**: You can explore the demo, but API usage is limited due to restricted token access.
 
 ---
