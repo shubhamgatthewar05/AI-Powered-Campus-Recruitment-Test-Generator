@@ -2,6 +2,9 @@
 
 This is an AI-powered web application that enables recruiters and educational institutions to **generate**, **manage**, and **evaluate** technical recruitment tests dynamically using **Google's Gemini LLM**, all through a user-friendly Streamlit interface.
 
+## 📌 Install all dependencies : run final.py 
+        streamlit run final.py
+
 ## 🚀 Demo
 
 🔗 [Live Demo Link](https://qifeyp4vtq7.streamlit.app/)  
